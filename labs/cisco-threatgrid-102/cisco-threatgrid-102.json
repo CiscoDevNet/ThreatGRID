@@ -1,0 +1,57 @@
+{
+    "labId": "Cisco threatGrid-102",
+    "title": "Cisco threatGrid-102: Operationalizing Threat Intelligence Capabilities of the Cisco threatGrid API",
+    "slug": "The purpose of this learning lab is to understand the basics of the Cisco threatGrid platform",
+    "time": "45",
+    "tags": [{
+        "title": "threatGrid"
+    }, {
+        "title": "threatgrid"
+    },
+    {
+        "title": "Threat Intelligence"
+    },
+    {
+        "title": "Security"
+    },
+    {
+        "title": "Threat Correlation"
+    },{
+        "title": "FTD"
+    }, {
+        "title": "NGFW"
+    }, {
+        "title": "NGIPS"
+    }, {
+        "title": "threatGrid API"
+    }, {
+        "title": "Firepower Threat Defence"
+    }, {
+        "title": "Cisco Security REST API"
+    }],
+    "files": [{
+        "title": "1.md"
+    }, {
+        "title": "2.md"
+    },{
+        "title": "3.md"
+    },{
+        "title": "4.md"
+    },{
+        "title": "5.md"
+    },{
+        "title": "6.md"
+    }],
+    "related": [{
+        "labId": "Cisco threatGrid-101",
+        "title": "Cisco threatGrid-101"
+    }],
+    "authors": [{
+        "name": "Krishan Veer",
+        "email": "veer@cisco.com"
+    },{
+        "name": "Ben Greenbaum",
+        "email": "bgreenba@cisco.com"
+    }],
+    "byod": true
+}
