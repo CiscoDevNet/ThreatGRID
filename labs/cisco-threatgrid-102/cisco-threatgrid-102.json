@@ -1,31 +1,20 @@
 {
     "labId": "Cisco threatGrid-102",
-    "title": "Cisco threatGrid-102: Operationalizing Threat Intelligence Capabilities of the Cisco threatGrid API",
-    "slug": "The purpose of this learning lab is to understand the basics of the Cisco threatGrid platform",
+    "title": "Cisco threatGrid-102: Operationalizing Threat Intelligence Capabilities of the Cisco Threat Grid API",
+    "slug": "The purpose of this learning lab is to understand the basics of the Cisco Threat Grid API as it pertains to Threat Intelligence, and how customers can derive real operational value from using it.",
     "time": "45",
     "tags": [{
-        "title": "threatGrid"
-    }, {
-        "title": "threatgrid"
-    },
-    {
+        "title": "Threat Grid"
+    },{
         "title": "Threat Intelligence"
-    },
-    {
+    },{
         "title": "Security"
-    },
-    {
+    },{
         "title": "Threat Correlation"
     },{
-        "title": "FTD"
+        "title": "Threat Grid API"
     }, {
-        "title": "NGFW"
-    }, {
-        "title": "NGIPS"
-    }, {
-        "title": "threatGrid API"
-    }, {
-        "title": "Firepower Threat Defence"
+        "title": "Advanced Threat Solutions"
     }, {
         "title": "Cisco Security REST API"
     }],
@@ -43,6 +32,14 @@
         "title": "6.md"
     },{
         "title": "7.md"
+    }{
+        "title": "8.md"
+    }{
+        "title": "9.md"
+    }{
+        "title": "10.md"
+    }{
+        "title": "11.md"
     }],
     "related": [{
         "labId": "Cisco threatGrid-101",
