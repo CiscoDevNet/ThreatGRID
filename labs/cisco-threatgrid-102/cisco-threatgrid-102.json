@@ -7,50 +7,60 @@
         "title": "threatGrid"
     }, {
         "title": "threatgrid"
-    },
-    {
+    }, {
+        "title": "threat grid"
+    }, {
+        "title": "Threat Grid"
+    }, {
         "title": "Threat Intelligence"
-    },
-    {
+    }, {
         "title": "Security"
-    },
-    {
+    }, {
         "title": "Threat Correlation"
-    },{
-        "title": "FTD"
-    }, {
-        "title": "NGFW"
-    }, {
-        "title": "NGIPS"
     }, {
         "title": "threatGrid API"
-    }, {
-        "title": "Firepower Threat Defence"
+    },{
+        "title": "threatgrid API"
+    },{
+        "title": "Threat Grid API"
+    },{
+        "title": "Advanced Threat Solutions"
     }, {
         "title": "Cisco Security REST API"
     }],
     "files": [{
-        "title": "01.md"
+        "file": "01.md"
+        ,"title": "Lab Introduction"
     }, {
-        "title": "02.md"
+        "file": "02.md"
+        ,"title": "Introduction to Threat Grid APIs"
     },{
-        "title": "03.md"
+        "file": "03.md"
+        ,"title": "Retrieving data via the API"
     },{
-        "title": "04.md"
+        "file": "04.md"
+        ,"title": "Basics of API usage"
     },{
-        "title": "05.md"
+        "file": "05.md"
+        ,"title": "Curated feeds"
     },{
-        "title": "06.md"
+        "file": "06.md"
+        ,"title": "IOC Feeds"
     },{
-        "title": "07.md"
+        "file": "07.md"
+        ,"title": "Sample feeds"
     },{
-        "title": "08.md"
+        "file": "08.md"
+        ,"title": "Fetching The Data"
     },{
-        "title": "09.md"
+        "file": "09.md"
+        ,"title": "Usage examples"
     },{
-        "title": "10.md"
+        "file": "10.md"
+        ,"title": "Conclusion"
     },{
-        "title": "11.md"
+        "file": "11.md"
+        ,"title": "Continue Learning"
     }],
     "related": [{
         "labId": "Cisco threatGrid-101",
