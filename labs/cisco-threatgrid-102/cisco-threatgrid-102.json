@@ -1,7 +1,7 @@
 {
-    "labId": "Cisco threatGrid-102",
-    "title": "Cisco threatGrid-102: Operationalizing Threat Intelligence Capabilities of the Cisco threatGrid API",
-    "slug": "The purpose of this learning lab is to understand the basics of the Cisco threatGrid platform",
+    "labId": "Introduction to the Cisco Threat Grid API",
+    "title": "Cisco Threat Grid - Introduction to the Threat Grid API",
+    "slug": "The purpose of this learning lab is to understand the basics of the Cisco Threat Grid API and how to easily opreationalize the threat intelligence is makes available.",
     "time": "45",
     "tags": [{
         "title": "threatGrid"
