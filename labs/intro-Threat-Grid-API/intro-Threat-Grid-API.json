@@ -1,0 +1,77 @@
+{
+    "labId": "Introduction to the Cisco Threat Grid API",
+    "title": "Cisco Threat Grid - Introduction to the Threat Grid API",
+    "slug": "The purpose of this learning lab is to understand the basics of the Cisco Threat Grid API and how to easily opreationalize the threat intelligence is makes available.",
+    "time": "45",
+    "tags": [{
+        "title": "threatGrid"
+    }, {
+        "title": "threatgrid"
+    }, {
+        "title": "threat grid"
+    }, {
+        "title": "Threat Grid"
+    }, {
+        "title": "Threat Intelligence"
+    }, {
+        "title": "Security"
+    }, {
+        "title": "Threat Correlation"
+    }, {
+        "title": "threatGrid API"
+    },{
+        "title": "threatgrid API"
+    },{
+        "title": "Threat Grid API"
+    },{
+        "title": "Advanced Threat Solutions"
+    }, {
+        "title": "Cisco Security REST API"
+    }],
+    "files": [{
+        "file": "01.md"
+        ,"title": "Lab Introduction"
+    }, {
+        "file": "02.md"
+        ,"title": "Introduction to Threat Grid APIs"
+    },{
+        "file": "03.md"
+        ,"title": "Retrieving data via the API"
+    },{
+        "file": "04.md"
+        ,"title": "Basics of API usage"
+    },{
+        "file": "05.md"
+        ,"title": "Curated feeds"
+    },{
+        "file": "06.md"
+        ,"title": "IOC Feeds"
+    },{
+        "file": "07.md"
+        ,"title": "Sample feeds"
+    },{
+        "file": "08.md"
+        ,"title": "Fetching The Data"
+    },{
+        "file": "09.md"
+        ,"title": "Usage examples"
+    },{
+        "file": "10.md"
+        ,"title": "Conclusion"
+    },{
+        "file": "11.md"
+        ,"title": "Continue Learning"
+    }],
+    "related": [{
+        "labId": "Cisco threatGrid-101",
+        "title": "Cisco threatGrid-101"
+    }],
+    "authors": [{
+        "name": "Krishan Veer",
+        "email": "veer@cisco.com"
+    },{
+        "name": "Ben Greenbaum",
+        "email": "bgreenba@cisco.com"
+    }],
+    "byod": true
+}
