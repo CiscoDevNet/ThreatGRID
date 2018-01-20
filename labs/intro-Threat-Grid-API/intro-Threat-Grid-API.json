@@ -30,37 +30,37 @@
     }],
     "files": [{
         "file": "01.md"
-        ,"title": "Lab Introduction"
+        ,"title": "1 - Lab Introduction"
     }, {
         "file": "02.md"
-        ,"title": "Introduction to Threat Grid APIs"
+        ,"title": "2 - Introduction to Threat Grid APIs"
     },{
         "file": "03.md"
-        ,"title": "Retrieving data via the API"
+        ,"title": "3 - Retrieving data via the API"
     },{
         "file": "04.md"
-        ,"title": "Basics of API usage"
+        ,"title": "4 - Basics of API usage"
     },{
         "file": "05.md"
-        ,"title": "Curated feeds"
+        ,"title": "5 - Curated feeds"
     },{
         "file": "06.md"
-        ,"title": "IOC Feeds"
+        ,"title": "6 - IOC Feeds"
     },{
         "file": "07.md"
-        ,"title": "Sample feeds"
+        ,"title": "7 - Sample feeds"
     },{
         "file": "08.md"
-        ,"title": "Fetching The Data"
+        ,"title": "8 - Fetching The Data"
     },{
         "file": "09.md"
-        ,"title": "Usage examples"
+        ,"title": "9 - Usage examples"
     },{
         "file": "10.md"
-        ,"title": "Conclusion"
+        ,"title": "10 - Conclusion"
     },{
         "file": "11.md"
-        ,"title": "Continue Learning"
+        ,"title": "11 - Continue Learning"
     }],
     "related": [{
         "labId": "Cisco threatGrid-101",
